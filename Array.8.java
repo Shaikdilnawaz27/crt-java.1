@@ -14,7 +14,7 @@ public class Matrix
 		    a[i][j]=s.nextInt();
 		}
 		}
-		    System.out.print(" Matrix is");
+		    System.out.println(" Matrix is");
 		    for(i=0;i<2;i++)
 		    {
 		        for (j=0;j<2;j++)
